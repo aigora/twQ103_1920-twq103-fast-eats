@@ -1,11 +1,14 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Fast-Eats
+
+Nuestro trabajo va a consistir en una aplicación, dedicada al transporte más rápido de comida, en la cual inicialmente el usuario podrá elegir entre las mejores ofertas de distintos restaurantes, escogerá su pedido y llegará rapidamente a su casa. Además una vez realizado el pedido se podrá ver el tiempo que tarda y quién lo entrega.
+
 
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alba Navarro Moreno; alba.navarro.moreno@alumnos.upm.es (Albanavarromoreno)
+Paula de Paz Gómez; paula.depaz.gomez@alumnos.upm.es (pauladepaz)
 
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Satisfacer las necesidades del cliente sobre todo, a la hora de la entrega ya que nuestro lema es: "Pide ya y llegamos en un fast".
+Conseguir con éxito la realización del trabajo.
