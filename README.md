@@ -6,8 +6,8 @@ Nuestro trabajo va a consistir en una aplicación, dedicada al transporte más r
 
 
 ## Integrantes del equipo
-Alba Navarro Moreno; alba.navarro.moreno@alumnos.upm.es (Albanavarromoreno)
-Paula de Paz Gómez; paula.depaz.gomez@alumnos.upm.es (pauladepaz)
+Alba Navarro Moreno;(Albanavarromoreno)
+Paula de Paz Gómez;(pauladepaz)
 
 ## Objetivos del trabajo
 Satisfacer las necesidades del cliente sobre todo, a la hora de la entrega ya que nuestro lema es: "Pide ya y llegamos en un fast".
