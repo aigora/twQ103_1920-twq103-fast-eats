@@ -1,0 +1,46 @@
+1,1,1,4,Grande
+1,1,2,3.80,Mediano
+1,1,3,3.50,Pequeño
+1,2,1,7.50,Grande
+1,2,2,6.90,Mediano
+1,2,3,6.50,Pequeño
+2,1,1,4,Grande
+2,1,2,3.80,Mediano
+2,1,3,3.50,Pequeño
+2,2,1,8.50,9 nuggets
+2,2,2,7.50,6 nuggets
+2,2,3,6.50,4 nuggets
+2,3,1,0,Pollo
+2,3,2,0,Ternera
+2,4,1,0,Chocolate con oreo
+2,4,2,0,Caramelo con kitkat
+2,4,3,0,Fresa con frutos del bosque
+5,1,1,0,Tallarines
+5,1,2,0,Spaguettis
+5,1,3,0,Macarrones
+5,2,1,0,Barbacoa
+5,2,2,0,4 quesos
+5,2,3,0,Margarita
+5,2,4,0,Serrana
+6,1,1,0,Tallarines
+6,1,2,0,Spaguettis
+6,1,3,0,Macarrones
+6,2,1,0,Barbacoa
+6,2,2,0,4 quesos
+6,2,3,0,Margarita
+6,2,4,0,Serrana
+7,1,1,0,Tallarines
+7,1,2,0,Spaguettis
+7,1,3,0,Macarrones
+7,2,1,0,Barbacoa
+7,2,2,0,4 quesos
+7,2,3,0,Margarita
+7,2,4,0,Serrana
+8,1,1,0,Vegana
+8,1,2,0,Vegetariana
+8,1,3,0,4 quesos
+8,1,4,0,Ibérica
+8,1,5,0,Nórdica
+9,6,1,0,Chocolate
+9,6,2,0,Vainilla
+9,6,3,0,Nata
