@@ -12,3 +12,4 @@ Paula de Paz Gómez;(pauladepaz)
 ## Objetivos del trabajo
 Satisfacer las necesidades del cliente sobre todo, a la hora de la entrega ya que nuestro lema es: "Pide ya y llegamos en un fast".
 Conseguir con éxito la realización del trabajo.
+Y los objetivos refiriendonos al programa, que el usuario pueda utilizarlo de forma fácil y entendible para satisfacer sus intereses.
