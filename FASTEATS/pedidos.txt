@@ -1,0 +1,20 @@
+     FastEats
+
+Nombre       : WKC
+Teléfono     : EWCFK
+Dirección    : WEN
+Forma de pago: Tarjeta
+
+  S u   P e d i d o
+  =================
+-Comida Rapida
+ -Restaurante Burguer King
+  -Menú King ahorro
+   Grande
+			Euros 4.00
+   Cocacola
+   Patatas
+
+	  +--------------------------+
+	  | Total a pagar ==>   4.00 |
+	  +--------------------------+
